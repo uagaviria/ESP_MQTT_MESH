@@ -1,17 +1,17 @@
 # ESP8266_MQTT_MESH
-current status : developing. if you have any trouble for this , pls contact me or open pull request.
+Estado actual: en desarrollo. 
 
-dependency libraries ( thanks to Coopdis)
+Dependencias (gracias a Coopdis)
 
-SimpleList *** Available here... https://github.com/blackhack/ArduLibraries/tree/master/SimpleList
+SimpleList *** Disponible aquí ... https://github.com/blackhack/ArduLibraries/tree/master/SimpleList
 
-ArduinoJson *** Available here... https://github.com/bblanchon/ArduinoJson
+ArduinoJson *** Disponible aquí ... https://github.com/bblanchon/ArduinoJson
 
-EasyWebsocket. *** Available here... https://github.com/Coopdis/easyWebSocket
+EasyWebsocket. *** Disponible aquí ... https://github.com/Coopdis/easyWebSocket
 
-MQTT Client. *** Available here... https://github.com/knolleary/pubsubclient
+MQTT Cliente. *** Disponible aquí ... https://github.com/knolleary/pubsubclient
 
 
-![alt tag](http://i.hizliresim.com/Xdmvg5.png)
+! [Alt tag] (http://i.hizliresim.com/Xdmvg5.png)
 
-![alt tag](http://i.hizliresim.com/bym50m.jpg)
+! [Alt tag] (http://i.hizliresim.com/bym50m.jpg)
